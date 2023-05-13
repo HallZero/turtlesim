@@ -1,0 +1,27 @@
+[1.025s] Invoking command in '/home/hallzero/turtlebot_ws/build/turtlebot_controller': PYTHONPATH=/home/hallzero/turtlebot_ws/build/turtlebot_controller/prefix_override:/home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/hallzero/turtlebot_ws/build/turtlebot_controller/build
+[1.374s] running develop
+[1.657s] Invoked command in '/home/hallzero/turtlebot_ws/build/turtlebot_controller' returned '0': PYTHONPATH=/home/hallzero/turtlebot_ws/build/turtlebot_controller/prefix_override:/home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/hallzero/turtlebot_ws/build/turtlebot_controller/build
+[1.663s] Invoking command in '/home/hallzero/turtlebot_ws/src/turtlebot_controller': PYTHONPATH=/home/hallzero/turtlebot_ws/build/turtlebot_controller/prefix_override:/home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlebot_controller build --build-base /home/hallzero/turtlebot_ws/build/turtlebot_controller/build install --record /home/hallzero/turtlebot_ws/build/turtlebot_controller/install.log --single-version-externally-managed
+[1.980s] running egg_info
+[1.981s] writing ../../build/turtlebot_controller/turtlebot_controller.egg-info/PKG-INFO
+[1.981s] writing dependency_links to ../../build/turtlebot_controller/turtlebot_controller.egg-info/dependency_links.txt
+[1.981s] writing entry points to ../../build/turtlebot_controller/turtlebot_controller.egg-info/entry_points.txt
+[1.982s] writing requirements to ../../build/turtlebot_controller/turtlebot_controller.egg-info/requires.txt
+[1.982s] writing top-level names to ../../build/turtlebot_controller/turtlebot_controller.egg-info/top_level.txt
+[1.984s] reading manifest file '../../build/turtlebot_controller/turtlebot_controller.egg-info/SOURCES.txt'
+[1.985s] writing manifest file '../../build/turtlebot_controller/turtlebot_controller.egg-info/SOURCES.txt'
+[1.985s] running build
+[1.985s] running build_py
+[1.985s] copying turtlebot_controller/turtlebot_sim_controller.py -> /home/hallzero/turtlebot_ws/build/turtlebot_controller/build/lib/turtlebot_controller
+[1.986s] running install
+[1.986s] running install_lib
+[1.987s] copying /home/hallzero/turtlebot_ws/build/turtlebot_controller/build/lib/turtlebot_controller/turtlebot_sim_controller.py -> /home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller
+[1.988s] byte-compiling /home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller/turtlebot_sim_controller.py to turtlebot_sim_controller.cpython-310.pyc
+[1.989s] running install_data
+[1.990s] running install_egg_info
+[1.993s] removing '/home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.994s] Copying ../../build/turtlebot_controller/turtlebot_controller.egg-info to /home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller-0.0.0-py3.10.egg-info
+[1.996s] running install_scripts
+[2.019s] Installing turtlebot_controller script to /home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/turtlebot_controller
+[2.019s] writing list of installed files to '/home/hallzero/turtlebot_ws/build/turtlebot_controller/install.log'
+[2.080s] Invoked command in '/home/hallzero/turtlebot_ws/src/turtlebot_controller' returned '0': PYTHONPATH=/home/hallzero/turtlebot_ws/build/turtlebot_controller/prefix_override:/home/hallzero/turtlebot_ws/install/turtlebot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlebot_controller build --build-base /home/hallzero/turtlebot_ws/build/turtlebot_controller/build install --record /home/hallzero/turtlebot_ws/build/turtlebot_controller/install.log --single-version-externally-managed

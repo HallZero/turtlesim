@@ -1,0 +1,24 @@
+[1.404s] Invoking command in '/home/hallzero/turtlebot_ws/src/turtlebot_controller': PYTHONPATH=/home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/prefix_override:/home/hallzero/turtlebot_ws/src/turtlebot_controller/install/turtlebot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/turtlebot_controller build --build-base /home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/build install --record /home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/install.log --single-version-externally-managed
+[1.893s] running egg_info
+[1.895s] writing build/turtlebot_controller/turtlebot_controller.egg-info/PKG-INFO
+[1.895s] writing dependency_links to build/turtlebot_controller/turtlebot_controller.egg-info/dependency_links.txt
+[1.895s] writing entry points to build/turtlebot_controller/turtlebot_controller.egg-info/entry_points.txt
+[1.896s] writing requirements to build/turtlebot_controller/turtlebot_controller.egg-info/requires.txt
+[1.896s] writing top-level names to build/turtlebot_controller/turtlebot_controller.egg-info/top_level.txt
+[1.900s] reading manifest file 'build/turtlebot_controller/turtlebot_controller.egg-info/SOURCES.txt'
+[1.901s] writing manifest file 'build/turtlebot_controller/turtlebot_controller.egg-info/SOURCES.txt'
+[1.902s] running build
+[1.903s] running build_py
+[1.903s] copying turtlebot_controller/turtlebot_sim_controller.py -> /home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/build/lib/turtlebot_controller
+[1.903s] running install
+[1.904s] running install_lib
+[1.906s] copying /home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/build/lib/turtlebot_controller/turtlebot_sim_controller.py -> /home/hallzero/turtlebot_ws/src/turtlebot_controller/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller
+[1.907s] byte-compiling /home/hallzero/turtlebot_ws/src/turtlebot_controller/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller/turtlebot_sim_controller.py to turtlebot_sim_controller.cpython-310.pyc
+[1.909s] running install_data
+[1.911s] running install_egg_info
+[1.916s] removing '/home/hallzero/turtlebot_ws/src/turtlebot_controller/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.917s] Copying build/turtlebot_controller/turtlebot_controller.egg-info to /home/hallzero/turtlebot_ws/src/turtlebot_controller/install/turtlebot_controller/lib/python3.10/site-packages/turtlebot_controller-0.0.0-py3.10.egg-info
+[1.924s] running install_scripts
+[1.974s] Installing turtlebot_controller script to /home/hallzero/turtlebot_ws/src/turtlebot_controller/install/turtlebot_controller/lib/turtlebot_controller
+[1.975s] writing list of installed files to '/home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/install.log'
+[2.070s] Invoked command in '/home/hallzero/turtlebot_ws/src/turtlebot_controller' returned '0': PYTHONPATH=/home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/prefix_override:/home/hallzero/turtlebot_ws/src/turtlebot_controller/install/turtlebot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/turtlebot_controller build --build-base /home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/build install --record /home/hallzero/turtlebot_ws/src/turtlebot_controller/build/turtlebot_controller/install.log --single-version-externally-managed
